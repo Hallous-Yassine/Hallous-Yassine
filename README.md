@@ -48,13 +48,10 @@ I am a **Computer Engineering** student with a focus on **embedded systems** and
 ### **Sofia Tech**  
 *Internship – Mobile Application Development with Embedded Systems*
 
-### **Student Organizations**  
-*IEEE – Member*
-
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com)
-- [GitHub](https://github.com)
+- [LinkedIn](https://www.linkedin.com/in/yassine-hallous/)
+- **Email:** yassine_hallous@ieee.org 
 
 ---
 
