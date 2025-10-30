@@ -148,7 +148,7 @@ I believe the best engineers are well-rounded individuals who bring diverse pers
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hallous-Yassine&layout=compact&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hallous-Yassine&theme=radical&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Hallous-Yassine&theme=radical&hide_border=true)
   
 </div>
 
