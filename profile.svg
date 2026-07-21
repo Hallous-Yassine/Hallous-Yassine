@@ -1,0 +1,44 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF"/>
+      <stop offset="100%" stop-color="#22d3a5"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#grid)" opacity="0.5"/>
+
+  <!-- decorative circuit nodes -->
+  <g opacity="0.6">
+    <circle cx="1080" cy="60" r="4" fill="#00D9FF"/>
+    <circle cx="1130" cy="90" r="3" fill="#22d3a5"/>
+    <circle cx="1060" cy="120" r="3" fill="#00D9FF"/>
+    <line x1="1080" y1="60" x2="1130" y2="90" stroke="#00D9FF" stroke-width="1" opacity="0.5"/>
+    <line x1="1130" y1="90" x2="1060" y2="120" stroke="#22d3a5" stroke-width="1" opacity="0.5"/>
+    <circle cx="90" cy="220" r="3" fill="#22d3a5"/>
+    <circle cx="140" cy="200" r="4" fill="#00D9FF"/>
+    <line x1="90" y1="220" x2="140" y2="200" stroke="#00D9FF" stroke-width="1" opacity="0.5"/>
+  </g>
+
+  <!-- accent bar -->
+  <rect x="90" y="98" width="6" height="70" fill="url(#accent)"/>
+
+  <text x="120" y="140" font-family="JetBrains Mono, Consolas, monospace" font-size="46" font-weight="700" fill="#f8fafc">
+    Yassine Hallous
+  </text>
+  <text x="120" y="172" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#94a3b8">
+    Computer Engineer &#183; AI &amp; Cybersecurity &#183; IoT
+  </text>
+
+  <text x="120" y="205" font-family="JetBrains Mono, Consolas, monospace" font-size="14" fill="#00D9FF">
+    Building secure, intelligent systems &#8212; one commit at a time
+  </text>
+</svg>
