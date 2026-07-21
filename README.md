@@ -1,175 +1,159 @@
-# Hey there, I'm Yassine Hallous 👋
-
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-hallous)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassine_hallous@ieee.org)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hallous-Yassine)
-  
-  **Computer Engineering Student | Embedded Systems & IoT Specialist | AI Enthusiast**
-  
-  *Building intelligent systems that bridge the physical and digital worlds* 🌐
-  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Yassine+Hallous+%F0%9F%91%8B;Computer+Engineering+Student+%40+ESSTHS;Embedded+Systems+%26+IoT+Specialist;AI+Enthusiast+%7C+Full-Stack+Developer;Building+intelligent+systems+that+bridge+worlds+%F0%9F%8C%90)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-hallous)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassine_hallous@ieee.org)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hallous-Yassine)
+
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **third-year Computer Engineering student** specializing in **Embedded Systems and IoT**, with a passion for creating automated, intelligent solutions that solve real-world problems. From training neural networks that achieve 99.5% accuracy to developing industrial automation platforms, I thrive at the intersection of **hardware, software, and intelligence**.
+```python
+yassine = {
+    "role"      : "Computer Engineering Student (3rd year)",
+    "focus"     : ["Embedded Systems", "IoT", "AI/ML", "Full-Stack Dev"],
+    "philosophy": "Make it work, make it right, make it fast.",
+    "seeking"   : "Final-year internship in Embedded Systems / IoT",
+    "leadership": "Chair, IAS/IES/PES Joint Chapter @ IEEE ESSTHS",
+}
+```
 
-My journey spans across **full-stack development**, **machine learning**, **mobile applications**, and **embedded systems**. Whether I'm programming ESP32 microcontrollers in C, building React frontends, or architecting backend systems with Node.js and PostgreSQL, I approach every project with the same philosophy: **make it work, make it right, make it fast**.
+I thrive at the intersection of **hardware, software, and intelligence** — from training neural networks that hit 99.5% accuracy to architecting industrial automation platforms that push real-time sensor data through the cloud. My work spans **ESP32 firmware in C**, **React/Node.js web stacks**, **Flutter mobile apps**, and **machine learning pipelines**.
 
-🏆 **Recognition**: 1st place at IAS TAM Technical Challenge with **Defensys** (AI-powered application security platform), Best Android Project at GDG TechDays, and 3rd place at RedRoom Cybersecurity Hackathon.
-
-Currently seeking a **final-year internship** to apply my technical skills and contribute to innovative projects that push boundaries.
-
----
-
-## 💻 Tech Stack & Expertise
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-### Mobile & Web Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Databases & Backend
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
-
-### Embedded Systems & IoT
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 🎯 Featured Projects & Achievements
-
-### 🛡️ **Defensys** - AI-Powered Application Security Platform
-*1st Place Winner - IAS TAM Technical Challenge*
-- Developed proactive security solution that protects applications before and after deployment
-- Recognized for innovation and impact at IEEE Tunisia Annual Meeting
-
-### 🤖 **MNIST Digit Recognition** - 99.5% Accuracy CNN
-`Python` `TensorFlow` `Keras` `Flask` `React` `TypeScript`
-- Trained a Convolutional Neural Network achieving 99.5% accuracy on MNIST dataset
-- Built interactive web application with React frontend and Flask API for real-time predictions
-
-### 🎬 **CineMatch** - Intelligent Movie Recommendation System
-`Python` `Flask` `Scikit-learn` `React` `TypeScript`
-- Implemented machine learning algorithms to provide personalized movie recommendations
-- Created modern, responsive web platform with seamless user experience
-
-### 🏭 **Nexova** - Industrial Process Automation Platform
-`Node.js` `TypeScript` `PostgreSQL` `Electron`
-- Architected backend system processing real-time IoT sensor data
-- Designed RESTful APIs enabling seamless integration between frontend and IoT devices
-
-### ⚡ **RuleGuard** - Automated Code Verification Tool
-`Python` `GUI Development`
-- Reduced manual code review time by **70%** through automated verification against custom rules
-- Built intuitive GUI with real-time violation tracking and exportable reports
-
-### 📱 **IoT Mobile Integration** - DHT11 Sensor Monitoring
-`Flutter` `ESP32` `Embedded C` `ESP-IDF` `PHP` `MySQL`
-- Developed mobile application synchronized with ESP32 microcontroller
-- Delivered real-time data visualization and remote monitoring capabilities
-
----
-
-## 🔥 What I'm Currently Working On
-
-- 🚀 Building **Nexova**, an intelligent platform for industrial automation with real-time IoT integration
-- 🧠 Exploring advanced **machine learning** techniques and **computer vision** applications
-- 📡 Designing embedded systems solutions that bridge **hardware and cloud infrastructure**
-- 🎓 Preparing for my **final-year internship** in Embedded Systems or IoT development
-- 🤝 Leading technical initiatives as **Chair of IAS, IES, PES Joint Chapter** at IEEE ESSTHS
+🏆 **Recognition:** 1st place at the IAS TAM Technical Challenge with **Defensys**, Best Android Project at GDG TechDays, and 3rd place at the RedRoom Cybersecurity Hackathon.
 
 ---
 
 ## 🏆 Achievements & Recognition
 
-- 🥇 **1st Place** - IAS TAM Technical Challenge (October 2025) - Defensys Project
-- 🏅 **Best Android Project** - GDG TechDays (April 2025)
-- 🥉 **3rd Place Overall** - RedRoom Cybersecurity Hackathon (March 2025)
-- 📜 **Cisco Python Essentials** & **Cybersecurity Certifications**
-- 💻 **IEEEXtreme 18.0** Programming Competition Participant
+<img src="https://img.shields.io/badge/🥇_1st_Place-IAS_TAM_Technical_Challenge-e11d48?style=for-the-badge&labelColor=1e293b" /> &nbsp; **Defensys — AI Application Security Platform** <br><br>
+<img src="https://img.shields.io/badge/🏅_Best_Android_Project-GDG_TechDays-3b82f6?style=for-the-badge&labelColor=1e293b" /> <br><br>
+<img src="https://img.shields.io/badge/🥉_3rd_Place_Overall-RedRoom_Cybersecurity_Hackathon-f59e0b?style=for-the-badge&labelColor=1e293b" /> <br><br>
+<img src="https://img.shields.io/badge/💻_Participant-IEEEXtreme_18.0-10b981?style=for-the-badge&labelColor=1e293b" /> <br><br>
+<img src="https://img.shields.io/badge/📜_Certified-Cisco_Python_Essentials_%26_Cybersecurity-8b5cf6?style=for-the-badge&labelColor=1e293b" /> <br><br>
 
 ---
 
-## 🌟 Beyond Code
+## 🛠️ Tech Stack
 
-When I'm not coding, you'll find me:
-- ♟️ **Playing chess** - strategic thinking translates well into algorithmic problem-solving
-- 📈 **Trading** - understanding markets and data-driven decision making
-- 🥋 **Practicing Jiu Jitsu** - discipline, persistence, and continuous improvement
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="50" height="50" /><br>C</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" /><br>C++</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" /><br>Python</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="50" height="50" /><br>Java</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50" /><br>Kotlin</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="50" height="50" /><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="50" height="50" /><br>TypeScript</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dart" width="50" height="50" /><br>Dart</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=php" width="50" height="50" /><br>PHP</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" /><br>Flutter</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" /><br>React</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" /><br>Node.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="50" height="50" /><br>Express</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" /><br>Tailwind</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" /><br>TensorFlow</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" /><br>Scikit-Learn</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" /><br>Pandas</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" /><br>NumPy</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flask" width="50" height="50" /><br>Flask</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=arduino" width="50" height="50" /><br>Arduino</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=ESP&background=E7352C&color=fff&size=50" width="50" height="50" /><br>ESP32</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" /><br>PostgreSQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" /><br>MySQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" /><br>MongoDB</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50" /><br>SQLite</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" /><br>Firebase</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="50" height="50" /><br>Docker</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="50" height="50" /><br>AWS</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nginx" width="50" height="50" /><br>Nginx</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" /><br>Linux</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="50" height="50" /><br>Git</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="50" height="50" /><br>GitHub</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=MQTT&background=660066&color=fff&size=50" width="50" height="50" /><br>MQTT</td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+  </tr>
+</table>
 
-I believe the best engineers are well-rounded individuals who bring diverse perspectives to technical challenges.
+---
+
+## 🎯 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🛡️ **[Defensys](#)** | AI-powered app security platform — 1st place, IAS TAM Technical Challenge | `AI` `Security` |
+| 🤖 **[MNIST Digit Recognition](#)** | CNN hitting 99.5% accuracy, served via a React + Flask app | `Python` `TensorFlow` `Keras` `React` |
+| 🎬 **[CineMatch](#)** | ML-driven personalized movie recommendation platform | `Python` `Flask` `Scikit-learn` `React` |
+| 🏭 **[Nexova](#)** | Industrial process automation platform with real-time IoT ingestion | `Node.js` `TypeScript` `PostgreSQL` `Electron` |
+| ⚡ **[RuleGuard](#)** | Automated code verification tool — cut manual review time by 70% | `Python` `GUI` |
+| 📱 **[IoT Mobile Integration](#)** | Flutter app synced with ESP32 for real-time DHT11 sensor monitoring | `Flutter` `ESP32` `ESP-IDF` `MySQL` |
+
+---
+
+## 🔥 Currently
+
+```python
+current = {
+    "building"  : "Nexova — real-time IoT industrial automation platform",
+    "exploring" : ["Computer Vision", "Advanced ML"],
+    "designing" : "Embedded solutions bridging hardware & cloud infra",
+    "preparing" : "Final-year internship in Embedded Systems / IoT",
+    "leading"   : "IAS / IES / PES Joint Chapter @ IEEE ESSTHS",
+}
+```
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hallous-Yassine&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hallous-Yassine&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Hallous-Yassine&theme=radical&hide_border=true)
-  
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hallous-Yassine&show_icons=true&hide_border=true&theme=radical&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hallous-Yassine&layout=compact&hide_border=true&theme=radical&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hallous-Yassine&theme=radical&hide_border=true" width="70%" />
+
 </div>
 
 ---
 
-## 💬 Let's Connect!
+## 🌟 Beyond Code
 
-I'm always open to collaborating on innovative projects, discussing tech trends, or exploring opportunities in **Embedded Systems**, **IoT**, **AI/ML**, or **Full-Stack Development**.
-
-📧 **Email**: yassine_hallous@ieee.org  
-💼 **LinkedIn**: [linkedin.com/in/yassine-hallous](https://linkedin.com/in/yassine-hallous)  
-📍 **Location**: Tunis, Tunisia
-
-*"Innovation distinguishes between a leader and a follower." - Steve Jobs*
+- ♟️ **Chess** — strategic thinking that translates into algorithmic problem-solving
+- 📈 **Trading** — data-driven decision making under uncertainty
+- 🥋 **Jiu Jitsu** — discipline, persistence, continuous improvement
 
 ---
 
+## 🌐 Connect With Me
+
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Hallous-Yassine&color=blueviolet&style=flat-square&label=Profile+Views)
-  
-  ⭐️ From [Hallous-Yassine](https://github.com/Hallous-Yassine) | Building the future, one commit at a time
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-hallous)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassine_hallous@ieee.org)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hallous-Yassine)
+
+📍 Tunis, Tunisia
+
+*"Innovation distinguishes between a leader and a follower." — Steve Jobs*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hallous-Yassine&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
